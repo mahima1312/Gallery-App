@@ -1,0 +1,14 @@
+.list-container {
+  margin-right: 20px;
+}
+
+.btn {
+  border-style: none;
+  background-color: transparent;
+  opacity: 0.5;
+}
+
+.active-thumbnail {
+  border-style: none;
+  background-color: transparent;
+}
